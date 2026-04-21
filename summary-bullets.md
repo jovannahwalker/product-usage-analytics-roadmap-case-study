@@ -1,0 +1,3 @@
+- Analyzed DAU/MAU, activation, and cohort retention to identify a week 3–5 drop-off in new-user engagement.
+- Recommended an onboarding roadmap theme (guided activation, lifecycle nudges, instrumentation) tied to measurable DAU/MAU and retention goals.
+- Partnered with Product and CS to translate findings into leadership-ready roadmap proposals and KPI definitions.
