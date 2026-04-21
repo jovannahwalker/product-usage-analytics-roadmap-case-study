@@ -42,12 +42,6 @@ The full redacted case study content is in `case-study.md`. It includes:
 - Suggested success metrics
 - Short, resume-ready summary
 
-## How to Use This Repo
-
-- Link to this repository from your resume, LinkedIn, or portfolio under **Projects** or **Case Studies**
-- Attach a PDF export of `case-study.md` to applications that ask for portfolio samples
-- Reference this case study in interviews when asked about using product data to drive roadmap decisions
-
 ## About the Author
 
-Created by **[Your Name]**, Business Analyst / Product Analytics partner with experience using product telemetry and customer behavior data to inform roadmap prioritization and improve activation and retention.
+Created by **[Jovannah Walker]**, Business Analyst / Product Analytics partner with experience using product telemetry and customer behavior data to inform roadmap prioritization and improve activation and retention.
