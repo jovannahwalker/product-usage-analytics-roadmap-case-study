@@ -44,4 +44,4 @@ The full redacted case study content is in `case-study.md`. It includes:
 
 ## About the Author
 
-Created by **[Jovannah Walker]**, Business Analyst / Product Analytics partner with experience using product telemetry and customer behavior data to inform roadmap prioritization and improve activation and retention.
+Created by **Jovannah Walker**, Business Analyst / Product Analytics partner with experience using product telemetry and customer behavior data to inform roadmap prioritization and improve activation and retention.
